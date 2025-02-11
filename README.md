@@ -22,4 +22,4 @@ The MATLAB source code is provided in the `src` directory.  Key files include:
    addpath('/path/to/cloned/repository/src'); % Replace with the actual path
 
 ## References
-[1]: Ó. López, J. Álvarez, A. G. Yepes, M. Medina-Sánchez and J. Doval-Gandoy, "Postfault Operation Strategy With Minimum Harmonic Injection for Cascaded H-Bridge Inverters Driving a Multiphase Motor," in IEEE Transactions on Power Electronics, vol. 40, no. 1, pp. 8-22, Jan. 2025, [doi: 10.1109/TPEL.2024.3456390](https://doi.org/10.1109/TPEL.2024.3456390)
+[1] Ó. López, J. Álvarez, A. G. Yepes, M. Medina-Sánchez and J. Doval-Gandoy, "Postfault Operation Strategy With Minimum Harmonic Injection for Cascaded H-Bridge Inverters Driving a Multiphase Motor," in IEEE Transactions on Power Electronics, vol. 40, no. 1, pp. 8-22, Jan. 2025, [doi: 10.1109/TPEL.2024.3456390](https://doi.org/10.1109/TPEL.2024.3456390) ([Open access at Investigo](http://hdl.handle.net/11093/7947)).
